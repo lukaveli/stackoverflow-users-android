@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.lukaveli.stackoverflow.presentation.users.UsersViewModel

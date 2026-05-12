@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml:2:13-83
+INJECTED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml:2:13-83
+	package
+		INJECTED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml
+	xmlns:android
+		ADDED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml:2:23-81
+uses-sdk
+INJECTED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml reason: use-sdk injection requested
+INJECTED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml
+INJECTED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml
+	android:minSdkVersion
+		INJECTED from /Users/lukaveli/Desktop/bojanov glupi zadatak/core/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13774082954279032345.xml

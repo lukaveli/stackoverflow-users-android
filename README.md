@@ -15,7 +15,15 @@ A modern Android application built to display a list of the top 20 StackOverflow
 
 ## Architecture and Technical Decisions
 
-This project follows **Clean Architecture** principles and a strict **Unidirectional Data Flow (UDF)**. 
+This project follows **Clean Architecture** principles, a strict **Unidirectional Data Flow (UDF)**, and is structured using a **Multi-Module Architecture** powered by **Gradle Convention Plugins**.
+
+### Multi-Module Structure
+To ensure massive scalability and strict boundary enforcement, the project is divided into several independent modules:
+- **`:build-logic`**: Centralized build configuration using custom Gradle convention plugins (`AndroidLibraryConventionPlugin`, `AndroidFeatureConventionPlugin`, etc.).
+- **`:app`**: The application composition root. Extremely lean, responsible only for wiring the dependency graph.
+- **`:core:domain`**: Contains pure business logic and interfaces (`User`, `UserRepository`, UseCases). It has zero dependencies on Android or specific implementations.
+- **`:core:data`**: Contains network models, DataStore implementations, and the concrete `UserRepositoryImpl`.
+- **`:feature:users`**: Contains the Jetpack Compose UI, ViewModels, and UI-specific state management.
 
 ### Presentation Layer (Jetpack Compose + MVVM/MVI)
 - **Jetpack Compose:** Used exclusively for all UI components. This allows for declarative, easily composable, and reactive interfaces.
