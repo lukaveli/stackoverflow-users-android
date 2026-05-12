@@ -10,6 +10,7 @@ import io.mockk.coVerify
 import io.mockk.mockk
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.flowOf
+import kotlinx.coroutines.test.advanceUntilIdle
 import kotlinx.coroutines.test.runTest
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
@@ -46,6 +47,7 @@ class UsersViewModelTest {
 
         // Assert
         viewModel.state.test {
+            assertTrue(awaitItem() is UsersContract.State.Loading)
             val state = awaitItem()
             assertTrue(state is UsersContract.State.Success)
             assertEquals(expectedUsers, (state as UsersContract.State.Success).users)
@@ -64,6 +66,7 @@ class UsersViewModelTest {
 
         // Assert
         viewModel.state.test {
+            assertTrue(awaitItem() is UsersContract.State.Loading)
             val state = awaitItem()
             assertTrue(state is UsersContract.State.Error)
             assertEquals(errorMessage, (state as UsersContract.State.Error).message)
@@ -79,6 +82,7 @@ class UsersViewModelTest {
 
         // Act
         viewModel.handleEvent(UsersContract.Event.ToggleFollow(1L))
+        advanceUntilIdle()
 
         // Assert
         coVerify(exactly = 1) { toggleFollowUserUseCase(1L) }

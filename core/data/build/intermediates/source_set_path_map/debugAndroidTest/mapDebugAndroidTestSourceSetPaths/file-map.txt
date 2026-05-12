@@ -1,0 +1,19 @@
+com.lukaveli.stackoverflow.core.data.test.data-lifecycle-runtime-2.5.1-0 /Users/lukaveli/.gradle/caches/9.4.1/transforms/059c380b6cbc9690ae531acf37e2734e/transformed/lifecycle-runtime-2.5.1/res
+com.lukaveli.stackoverflow.core.data.test.data-core-1.8.0-1 /Users/lukaveli/.gradle/caches/9.4.1/transforms/077b9f98970d3ec6137ff184cdd165ba/transformed/core-1.8.0/res
+com.lukaveli.stackoverflow.core.data.test.data-datastore-preferences-release-2 /Users/lukaveli/.gradle/caches/9.4.1/transforms/08520163b18be1baac292fee4c8b229c/transformed/datastore-preferences-release/res
+com.lukaveli.stackoverflow.core.data.test.data-lifecycle-viewmodel-2.5.1-3 /Users/lukaveli/.gradle/caches/9.4.1/transforms/09e9434bdf101e1126081157071ed02d/transformed/lifecycle-viewmodel-2.5.1/res
+com.lukaveli.stackoverflow.core.data.test.data-annotation-experimental-1.3.1-4 /Users/lukaveli/.gradle/caches/9.4.1/transforms/1838282ad440b634825bb87addadf65b/transformed/annotation-experimental-1.3.1/res
+com.lukaveli.stackoverflow.core.data.test.data-fragment-1.5.1-5 /Users/lukaveli/.gradle/caches/9.4.1/transforms/214f0abe494e2474ec1236d82550a2a0/transformed/fragment-1.5.1/res
+com.lukaveli.stackoverflow.core.data.test.data-activity-1.5.1-6 /Users/lukaveli/.gradle/caches/9.4.1/transforms/285b714f5aeb9ace505ef8ebeafbe005/transformed/activity-1.5.1/res
+com.lukaveli.stackoverflow.core.data.test.data-datastore-core-release-7 /Users/lukaveli/.gradle/caches/9.4.1/transforms/905630570e5baecf82991d670a4b482e/transformed/datastore-core-release/res
+com.lukaveli.stackoverflow.core.data.test.data-savedstate-1.2.0-8 /Users/lukaveli/.gradle/caches/9.4.1/transforms/a1940b455312146835d8f94a3f395cc5/transformed/savedstate-1.2.0/res
+com.lukaveli.stackoverflow.core.data.test.data-datastore-release-9 /Users/lukaveli/.gradle/caches/9.4.1/transforms/a6fc2331f00a694f41db89f6bef0997a/transformed/datastore-release/res
+com.lukaveli.stackoverflow.core.data.test.data-lifecycle-livedata-core-2.5.1-10 /Users/lukaveli/.gradle/caches/9.4.1/transforms/c9b652a5a27c50f9429252cefdcc3df3/transformed/lifecycle-livedata-core-2.5.1/res
+com.lukaveli.stackoverflow.core.data.test.data-lifecycle-viewmodel-savedstate-2.5.1-11 /Users/lukaveli/.gradle/caches/9.4.1/transforms/f64b6e6a90112ec3cdd4493393ea6493/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.lukaveli.stackoverflow.core.data.test.data-androidTest-12 /Users/lukaveli/Desktop/bojanov zadatak/core/data/build/generated/res/resValues/androidTest/debug
+com.lukaveli.stackoverflow.core.data.test.data-updated_navigation_xml-13 /Users/lukaveli/Desktop/bojanov zadatak/core/data/build/generated/updated_navigation_xml/debugAndroidTest
+com.lukaveli.stackoverflow.core.data.test.data-mergeDebugAndroidTestResources-14 /Users/lukaveli/Desktop/bojanov zadatak/core/data/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.lukaveli.stackoverflow.core.data.test.data-mergeDebugAndroidTestResources-15 /Users/lukaveli/Desktop/bojanov zadatak/core/data/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.lukaveli.stackoverflow.core.data.test.data-debugAndroidTest-16 /Users/lukaveli/Desktop/bojanov zadatak/core/data/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.lukaveli.stackoverflow.core.data.test.data-debug-17 /Users/lukaveli/Desktop/bojanov zadatak/core/data/build/intermediates/packaged_res/debug/packageDebugResources
+com.lukaveli.stackoverflow.core.data.test.data-debug-18 /Users/lukaveli/Desktop/bojanov zadatak/core/domain/build/intermediates/packaged_res/debug/packageDebugResources

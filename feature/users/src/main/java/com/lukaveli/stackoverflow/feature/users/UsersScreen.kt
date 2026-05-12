@@ -22,6 +22,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
+import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.lukaveli.stackoverflow.core.domain.model.User
@@ -32,7 +33,7 @@ import kotlinx.coroutines.flow.collectLatest
 fun UsersScreen(
     viewModel: UsersViewModel = hiltViewModel()
 ) {
-    val state by viewModel.state.collectAsState()
+    val state by viewModel.state.collectAsStateWithLifecycle()
     val context = LocalContext.current
 
     LaunchedEffect(Unit) {

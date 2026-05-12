@@ -1,0 +1,49 @@
+com.lukaveli.stackoverflow.feature.users.test.users-material-icons-core-release-0 /Users/lukaveli/.gradle/caches/9.4.1/transforms/0293e2ce94bb65803a1825e9c730a9d4/transformed/material-icons-core-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-lifecycle-viewmodel-ktx-2.10.0-1 /Users/lukaveli/.gradle/caches/9.4.1/transforms/050b5f5709e936ff70a297acb8f3f665/transformed/lifecycle-viewmodel-ktx-2.10.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-customview-poolingcontainer-1.0.0-2 /Users/lukaveli/.gradle/caches/9.4.1/transforms/0c18513c80ae4a0e9037e567948cd401/transformed/customview-poolingcontainer-1.0.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-lifecycle-process-2.10.0-3 /Users/lukaveli/.gradle/caches/9.4.1/transforms/0f083bbfc8738e2981d430cd91654f28/transformed/lifecycle-process-2.10.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-activity-ktx-1.9.3-4 /Users/lukaveli/.gradle/caches/9.4.1/transforms/0f3a56e6597d5940b00834744b85fec6/transformed/activity-ktx-1.9.3/res
+com.lukaveli.stackoverflow.feature.users.test.users-savedstate-ktx-1.4.0-5 /Users/lukaveli/.gradle/caches/9.4.1/transforms/142d894bf131d3363694e07f14a1398f/transformed/savedstate-ktx-1.4.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-lifecycle-viewmodel-6 /Users/lukaveli/.gradle/caches/9.4.1/transforms/177eaac791171ec0662a9b6ff3607aac/transformed/lifecycle-viewmodel/res
+com.lukaveli.stackoverflow.feature.users.test.users-graphics-path-1.0.1-7 /Users/lukaveli/.gradle/caches/9.4.1/transforms/18fabaa6b91ab8d2e77e30ac16a816e9/transformed/graphics-path-1.0.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-annotation-experimental-1.4.1-8 /Users/lukaveli/.gradle/caches/9.4.1/transforms/20430087fc46598d753d4f2727324057/transformed/annotation-experimental-1.4.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-fragment-1.5.1-9 /Users/lukaveli/.gradle/caches/9.4.1/transforms/214f0abe494e2474ec1236d82550a2a0/transformed/fragment-1.5.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-lifecycle-runtime-10 /Users/lukaveli/.gradle/caches/9.4.1/transforms/2c929a9f923817aea0575d813de79bcb/transformed/lifecycle-runtime/res
+com.lukaveli.stackoverflow.feature.users.test.users-core-runtime-2.2.0-11 /Users/lukaveli/.gradle/caches/9.4.1/transforms/33c1c1c12aabb5f39c49f2069796148e/transformed/core-runtime-2.2.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-tracing-1.2.0-12 /Users/lukaveli/.gradle/caches/9.4.1/transforms/3794cf1bc1f60cc2fe7f8eedefece775/transformed/tracing-1.2.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-animation-core-release-13 /Users/lukaveli/.gradle/caches/9.4.1/transforms/3c463f85c8ff14c3553e2858b467ed14/transformed/animation-core-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-navigation-compose-2.5.1-14 /Users/lukaveli/.gradle/caches/9.4.1/transforms/3ed5c8ecf09a42644c9b1427a9e26bb8/transformed/navigation-compose-2.5.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-hilt-navigation-1.2.0-15 /Users/lukaveli/.gradle/caches/9.4.1/transforms/4b08ade13bb2a3540cac06a27beb3212/transformed/hilt-navigation-1.2.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-material-ripple-release-16 /Users/lukaveli/.gradle/caches/9.4.1/transforms/5241371ebd5a2b63b046427cc1bd20ad/transformed/material-ripple-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-navigation-runtime-ktx-2.5.1-17 /Users/lukaveli/.gradle/caches/9.4.1/transforms/593247583f69f56cd920aa06e6e5416f/transformed/navigation-runtime-ktx-2.5.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-ui-release-18 /Users/lukaveli/.gradle/caches/9.4.1/transforms/5dddae24fde62ef38e361158ae9af359/transformed/ui-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-material3-release-19 /Users/lukaveli/.gradle/caches/9.4.1/transforms/724305c325f1d137c9ad4ef95708515c/transformed/material3-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-lifecycle-livedata-2.10.0-20 /Users/lukaveli/.gradle/caches/9.4.1/transforms/73017fa2e4e6cb9c32aaa31c18780374/transformed/lifecycle-livedata-2.10.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-core-1.15.0-21 /Users/lukaveli/.gradle/caches/9.4.1/transforms/796b11183bf90d241ec825f3e0151808/transformed/core-1.15.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-activity-1.9.3-22 /Users/lukaveli/.gradle/caches/9.4.1/transforms/7ac925555d18c0f790a52273eb86455f/transformed/activity-1.9.3/res
+com.lukaveli.stackoverflow.feature.users.test.users-navigation-common-ktx-2.5.1-23 /Users/lukaveli/.gradle/caches/9.4.1/transforms/7b17b94ec0683daf5b878e308565feaa/transformed/navigation-common-ktx-2.5.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-savedstate-24 /Users/lukaveli/.gradle/caches/9.4.1/transforms/7d86be43f8612c7261bd724d38c245a3/transformed/savedstate/res
+com.lukaveli.stackoverflow.feature.users.test.users-emoji2-1.4.0-25 /Users/lukaveli/.gradle/caches/9.4.1/transforms/86058a02a3c2f0d336f7e2e71290770f/transformed/emoji2-1.4.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-profileinstaller-1.4.0-26 /Users/lukaveli/.gradle/caches/9.4.1/transforms/901b06af6cffaf583bd6056283480cdf/transformed/profileinstaller-1.4.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-hilt-navigation-compose-1.2.0-27 /Users/lukaveli/.gradle/caches/9.4.1/transforms/913d0175fb01dd44eba20e7e88fecf8e/transformed/hilt-navigation-compose-1.2.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-startup-runtime-1.1.1-28 /Users/lukaveli/.gradle/caches/9.4.1/transforms/9a1bc5dd5fb5898b7ba8f5dc285531df/transformed/startup-runtime-1.1.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-animation-release-29 /Users/lukaveli/.gradle/caches/9.4.1/transforms/a03835b398a60231ec0a873894bbd9a5/transformed/animation-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-core-ktx-1.15.0-30 /Users/lukaveli/.gradle/caches/9.4.1/transforms/a3647d74b091e0ef2a4f5a11ff578e13/transformed/core-ktx-1.15.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-appcompat-resources-1.6.1-31 /Users/lukaveli/.gradle/caches/9.4.1/transforms/ad27da7b98a066c963e5b02fa186058a/transformed/appcompat-resources-1.6.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-navigation-runtime-2.5.1-32 /Users/lukaveli/.gradle/caches/9.4.1/transforms/b437373c78a1adff21098254cc2fc2ce/transformed/navigation-runtime-2.5.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-core-viewtree-1.0.0-33 /Users/lukaveli/.gradle/caches/9.4.1/transforms/b916a842a2a434e44daed6515f63f0ed/transformed/core-viewtree-1.0.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-foundation-release-34 /Users/lukaveli/.gradle/caches/9.4.1/transforms/c7834067b350c5c188f3452c810d7e9d/transformed/foundation-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-lifecycle-livedata-core-ktx-2.10.0-35 /Users/lukaveli/.gradle/caches/9.4.1/transforms/c9131dddb746616b3eee55ef5234806f/transformed/lifecycle-livedata-core-ktx-2.10.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-activity-compose-1.9.3-36 /Users/lukaveli/.gradle/caches/9.4.1/transforms/cb50fa7a9f83840b8db0ccf111109b69/transformed/activity-compose-1.9.3/res
+com.lukaveli.stackoverflow.feature.users.test.users-ui-graphics-release-37 /Users/lukaveli/.gradle/caches/9.4.1/transforms/d954da6eb3efd7ea109984c7653b8b35/transformed/ui-graphics-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-navigation-common-2.5.1-38 /Users/lukaveli/.gradle/caches/9.4.1/transforms/ed9aa92ef748801e188c49836735df3b/transformed/navigation-common-2.5.1/res
+com.lukaveli.stackoverflow.feature.users.test.users-lifecycle-livedata-core-2.10.0-39 /Users/lukaveli/.gradle/caches/9.4.1/transforms/f00e9a708e440dac6e9a6dca0030b625/transformed/lifecycle-livedata-core-2.10.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-coil-base-2.6.0-40 /Users/lukaveli/.gradle/caches/9.4.1/transforms/fc7d50581541bd44329b5c500d9c5c9c/transformed/coil-base-2.6.0/res
+com.lukaveli.stackoverflow.feature.users.test.users-foundation-layout-release-41 /Users/lukaveli/.gradle/caches/9.4.1/transforms/fe90f77f6665dd1297605f9575555b16/transformed/foundation-layout-release/res
+com.lukaveli.stackoverflow.feature.users.test.users-debug-42 /Users/lukaveli/Desktop/bojanov zadatak/core/domain/build/intermediates/packaged_res/debug/packageDebugResources
+com.lukaveli.stackoverflow.feature.users.test.users-androidTest-43 /Users/lukaveli/Desktop/bojanov zadatak/feature/users/build/generated/res/resValues/androidTest/debug
+com.lukaveli.stackoverflow.feature.users.test.users-updated_navigation_xml-44 /Users/lukaveli/Desktop/bojanov zadatak/feature/users/build/generated/updated_navigation_xml/debugAndroidTest
+com.lukaveli.stackoverflow.feature.users.test.users-mergeDebugAndroidTestResources-45 /Users/lukaveli/Desktop/bojanov zadatak/feature/users/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.lukaveli.stackoverflow.feature.users.test.users-mergeDebugAndroidTestResources-46 /Users/lukaveli/Desktop/bojanov zadatak/feature/users/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.lukaveli.stackoverflow.feature.users.test.users-debugAndroidTest-47 /Users/lukaveli/Desktop/bojanov zadatak/feature/users/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.lukaveli.stackoverflow.feature.users.test.users-debug-48 /Users/lukaveli/Desktop/bojanov zadatak/feature/users/build/intermediates/packaged_res/debug/packageDebugResources

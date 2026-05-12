@@ -1,6 +1,7 @@
 plugins {
     id("stackoverflow.android.application")
     id("stackoverflow.android.hilt")
+    alias(libs.plugins.kotlin.compose)
 }
 
 android {
@@ -30,4 +31,9 @@ dependencies {
     implementation(libs.androidx.compose.ui.tooling.preview)
 
     debugImplementation(libs.androidx.compose.ui.tooling)
+
+    testImplementation(libs.junit)
+    testImplementation(libs.mockk)
+    testImplementation(libs.kotlinx.coroutines.test)
+    testImplementation(libs.turbine)
 }
