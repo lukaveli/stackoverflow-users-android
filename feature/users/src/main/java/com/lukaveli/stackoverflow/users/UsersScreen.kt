@@ -57,9 +57,7 @@ fun UsersScreen(
         }
     ) { paddingValues ->
         Box(
-            modifier = Modifier
-                .fillMaxSize()
-                .padding(paddingValues)
+            modifier = Modifier.fillMaxSize()
         ) {
             when (val currentState = state) {
                 is UsersContract.State.Loading -> {
@@ -79,7 +77,8 @@ fun UsersScreen(
                             users = currentState.users,
                             onToggleFollow = { userId ->
                                 viewModel.handleEvent(UsersContract.Event.ToggleFollow(userId))
-                            }
+                            },
+                            contentPadding = paddingValues
                         )
                     }
                 }
@@ -91,10 +90,16 @@ fun UsersScreen(
 @Composable
 fun UsersList(
     users: List<User>,
-    onToggleFollow: (Long) -> Unit
+    onToggleFollow: (Long) -> Unit,
+    contentPadding: PaddingValues
 ) {
     LazyColumn(
-        contentPadding = PaddingValues(16.dp),
+        contentPadding = PaddingValues(
+            top = contentPadding.calculateTopPadding() + 16.dp,
+            bottom = contentPadding.calculateBottomPadding() + 16.dp,
+            start = 16.dp,
+            end = 16.dp
+        ),
         verticalArrangement = Arrangement.spacedBy(12.dp)
     ) {
         items(users, key = { it.id }) { user ->
