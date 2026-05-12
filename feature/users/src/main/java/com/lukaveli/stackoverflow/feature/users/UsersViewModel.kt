@@ -43,7 +43,8 @@ class UsersViewModel @Inject constructor(
             getUsersUseCase()
                 .onStart { _state.value = UsersContract.State.Loading }
                 .catch { exception ->
-                    _state.value = UsersContract.State.Error(exception.message ?: "An unknown error occurred")
+                    _state.value =
+                        UsersContract.State.Error(exception.message ?: "An unknown error occurred")
                 }
                 .collect { result ->
                     result.fold(
@@ -51,7 +52,9 @@ class UsersViewModel @Inject constructor(
                             _state.value = UsersContract.State.Success(users)
                         },
                         onFailure = { exception ->
-                            _state.value = UsersContract.State.Error(exception.message ?: "An unknown error occurred")
+                            _state.value = UsersContract.State.Error(
+                                exception.message ?: "An unknown error occurred"
+                            )
                         }
                     )
                 }
