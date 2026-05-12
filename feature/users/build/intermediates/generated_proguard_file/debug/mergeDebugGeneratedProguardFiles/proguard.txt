@@ -1,2 +1,2 @@
--keep,allowobfuscation,allowshrinking class com.lukaveli.stackoverflow.presentation.users.UsersViewModel
--keep,allowobfuscation,allowshrinking class com.lukaveli.stackoverflow.presentation.users.UsersViewModel
+-keep,allowobfuscation,allowshrinking class com.lukaveli.stackoverflow.feature.users.UsersViewModel
+-keep,allowobfuscation,allowshrinking class com.lukaveli.stackoverflow.feature.users.UsersViewModel
